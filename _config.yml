@@ -24,9 +24,9 @@ author:
   avatar           : "personal_pic.png"
   name             : "Mohammad Ramadan"
   pronouns         : # example: "she/her"  
-  bio              : "I'm with the Mathematics and Computer Science Division of Argonne National Lab"
+  bio              : "A control theorist, "
   location         : "Chicago, IL"
-  employer         : "Argonne National Laboratory, Lemont, IL"
+  employer         : "Argonne National Lab"
   uri              : # URL
   email            : "msramada@ucsd.edu" 
 
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/msmscipio"
+  youtube          : "msmscipio"
   zhihu            : # URL
 
 
