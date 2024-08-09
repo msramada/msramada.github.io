@@ -21,10 +21,10 @@ repository               : "msramada/msramada.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/personal_pic.png"
+  avatar           : "personal_pic.png"
   name             : "Mohammad Ramadan"
   pronouns         : # example: "she/her"  
-  bio              : "Mathematics and Computer Science Division of Argonne National Lab"
+  bio              : "I'm with the Mathematics and Computer Science Division of Argonne National Lab"
   location         : "Chicago, IL"
   employer         : "Argonne National Laboratory, Lemont, IL"
   uri              : # URL
