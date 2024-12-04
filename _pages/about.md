@@ -14,3 +14,11 @@ A little about me (outside research):
 I'm into music, theory and production, and all sorts of movements: working out, yoga, calisthenics, wrestling and Brazillian jiu jitsu.
 
 ## Previous research projects:
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    - **Data Conforming Project**: This project focuses on developing algorithms for data conforming in high-dimensional spaces. The goal is to improve the accuracy and efficiency of data-driven models in various applications, including control systems and machine learning.
+  </div>
+  <div style="flex: 1; margin-left: 20px;">
+    <embed src="/files/Projects/DataConforming.pdf" width="300" height="400" type="application/pdf">
+  </div>
+</div>
