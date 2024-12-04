@@ -12,3 +12,5 @@ I'm currently in **Naperville (Chicago Western Suburbs), IL**, working with the 
 
 A little about me (outside research):
 I'm into music, theory and production, and all sorts of movements: working out, yoga, calisthenics, wrestling and Brazillian jiu jitsu.
+
+## Previous research projects:
