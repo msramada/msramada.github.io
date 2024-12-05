@@ -17,7 +17,7 @@ I'm into music, theory and production, and all sorts of movements: working out, 
 
 ### Data-Conforming Data-Driven Control
 
-    [Read the full paper here](https://arxiv.org/abs/2409.11549)
+  [Read the full paper here](https://arxiv.org/abs/2409.11549)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
      Data-driven and adaptive control approaches face the problem of introducing sudden distributional shifts beyond the distribution of data encountered during learning. Therefore, they are prone to invalidating the very assumptions used in their own construction. This is due to the linearity of the underlying system, inherently assumed and formulated in most data-driven control approaches, which may falsely generalize the behavior of the system beyond the behavior experienced in the data. This paper seeks to mitigate these problems by enforcing consistency of the newly designed closed-loop systems with data and slowing down any distributional shifts in the joint state-input space. This is achieved through incorporating affine regularization terms and linear matrix inequality constraints to data-driven approaches, resulting in convex semi-definite programs that can be efficiently solved by standard software packages. We discuss the optimality conditions of these programs and then conclude the paper with a numerical example that further highlights the problem of premature generalization beyond data and shows the effectiveness of our proposed approaches in enhancing the safety of data-driven control methods.
@@ -29,7 +29,7 @@ I'm into music, theory and production, and all sorts of movements: working out, 
 
 ### Dampening parameter distributional shifts under robust control and gain scheduling
 
-    [Read the full paper here](https://arxiv.org/abs/2411.16566)
+  [Read the full paper here](https://arxiv.org/abs/2411.16566)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
      Many traditional robust control approaches assume linearity of the system and independence between the system state-input and the parameters of its approximant low-order model. This assumption implies that robust control design introduces no distributional shifts in the parameters of this low-order model. This is generally not true when the underlying actual system is nonlinear, which admits typically state-input coupling with the parameters of the approximating model. Therefore, a robust controller has to be robust under the parameter distribution that will be experienced in the future data, after applying this control, not the parameter distribution seen in the learning data or assumed in the design. In this paper we seek a solution to this problem by restricting the newly designed closed-loop system to be consistent with the learning data and slowing down any distributional shifts in the state-input and parameter spaces. In computational terms, these objectives are formulated as convex semi-definite programs that standard software packages can efficiently solve. We evaluate the proposed approaches on a simple yet telling gain-scheduling problem, which can be equivalently posed as a robust control problem.
