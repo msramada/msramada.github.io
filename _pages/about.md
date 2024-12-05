@@ -15,7 +15,8 @@ I'm into music, theory and production, and all sorts of movements: working out, 
 
 ## Recent research projects:
 
-### Data-Conforming Data-Driven Control:
+### Data-Conforming Data-Driven Control
+
     [Read the full paper here](https://arxiv.org/abs/2409.11549)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
@@ -26,7 +27,8 @@ I'm into music, theory and production, and all sorts of movements: working out, 
   </div>
 </div>
 
-### Dampening parameter distributional shifts under robust control and gain scheduling:
+### Dampening parameter distributional shifts under robust control and gain scheduling
+
     [Read the full paper here](https://arxiv.org/abs/2411.16566)
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
