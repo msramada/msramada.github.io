@@ -36,3 +36,5 @@
     "build:js": "npm run uglify"
   }
 }
+
+npm run build:css
