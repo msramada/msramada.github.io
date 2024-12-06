@@ -25,16 +25,17 @@ I'm into music, theory and production, and all sorts of movements: working out, 
   </div>
   <div style="flex: 1; margin-left: 20px;">
     <embed src="/files/Projects/DataConforming.pdf" width="320" height="360" type="application/pdf">
-    <br>
-    <a href="https://arxiv.org/abs/2409.11549">Read the full paper here</a>
   </div>
+</div>
+<div style="margin-top: 20px;">
+  <a href="https://arxiv.org/abs/2409.11549">Read the full paper here</a>
 </div>
 
 ### Dampening parameter distributional shifts under robust control and gain scheduling
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="flex: 1; margin-bottom: 20px;">
-    <embed src="/files/Projects/distShifts.pdf" width="600" height="240" type="application/pdf">
+    <iframe src="/files/Projects/distShifts.pdf" width="600" height="240"></iframe>
   </div>
   <div style="flex: 1;">
     <span style="font-size: 0.9em;">
@@ -45,3 +46,4 @@ I'm into music, theory and production, and all sorts of movements: working out, 
     <a href="https://arxiv.org/abs/2411.16566">Read the full paper here</a>
   </div>
 </div>
+
